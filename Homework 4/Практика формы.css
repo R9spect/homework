@@ -1,0 +1,50 @@
+body {
+  font-family: sans-serif;
+}
+
+p {
+  margin-top: 10px;
+  margin-bottom: 6px;
+}
+
+h2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.form-group {
+  border: none;
+}
+
+.form {
+  display: inline-block;
+  width: 350px;
+  border: 2px solid #000;
+  border-radius: 1em;
+}
+
+.label {
+  display: block;
+}
+
+.textarea {
+  resize: vertical;
+  min-height: 30px;
+  max-height: 250px;
+  border: 2px solid #000;
+  border-radius: 5px;
+}
+
+.input {
+  border: 2px solid #000;
+  border-radius: 5px;
+}
+
+.button {
+  cursor: pointer;
+}
+
+.label-1 {
+  display: block;
+  margin-bottom: 10px;
+}
